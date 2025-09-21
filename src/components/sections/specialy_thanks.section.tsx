@@ -10,7 +10,7 @@ import { NEWLYWEDS_TITLE } from '@/components/libs/constants/others.const';
 import Link from 'next/link';
 import { DotLottieReact } from '@lottiefiles/dotlottie-react';
 
-import thxImg from '@/assets/album/foto background 2.jpg';
+import thxImg from '@/assets/album/Fotobackground2.jpg';
 
 const cormorantUpright = localFont({ src: "../../assets/fonts/CormorantUpright-Regular.ttf" });
 const jasmineRosemary = localFont({ src: "../../assets/fonts/jasminerosemary.ttf" });
