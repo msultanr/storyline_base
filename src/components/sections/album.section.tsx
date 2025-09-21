@@ -6,17 +6,17 @@ import localFont from "next/font/local";
 const cormorantUpright = localFont({ src: "../../assets/fonts/CormorantUpright-Regular.ttf" });
 
 // Import album images
-import album1 from "@/assets/album/DSC07816.JPG";
-import album2 from "@/assets/album/DSC07839.JPG";
-import album3 from "@/assets/album/DSC07882.JPG";
-import album4 from "@/assets/album/DSC08322.JPG";
-import album6 from "@/assets/album/DSC08499.JPG";
-import album7 from "@/assets/album/DSC08555 2.JPG";
-import album8 from "@/assets/album/DSC08588.JPG";
-import album9 from "@/assets/album/DSC08678.JPG";
-import album10 from "@/assets/album/DSC08705.JPG";
-import album11 from "@/assets/album/Foto background 1.JPG";
-import album12 from "@/assets/album/Foto background 2.JPG";
+import album1 from "@/assets/album/DSC07816.jpg";
+import album2 from "@/assets/album/DSC07839.jpg";
+import album3 from "@/assets/album/DSC07882.jpg";
+import album4 from "@/assets/album/DSC08322.jpg";
+import album6 from "@/assets/album/DSC08499.jpg";
+import album7 from "@/assets/album/DSC08555 2.jpg";
+import album8 from "@/assets/album/DSC08588.jpg";
+import album9 from "@/assets/album/DSC08678.jpg";
+import album10 from "@/assets/album/DSC08705.jpg";
+import album11 from "@/assets/album/Foto background 1.jpg";
+import album12 from "@/assets/album/Foto background 2.jpg";
 
 const albumImages = [
     album1, album2, album3, album4,
