@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#bg-texture {
+  background-image: url('../assets/texture.png');
+  background-size: contain;
+  background-repeat: repeat-y;
+}
+
+#couple_texture {
+  background-image: url('../assets/couple/paper_texture.jpg');
+  background-size: contain;
+  background-repeat: repeat-y;
+}
